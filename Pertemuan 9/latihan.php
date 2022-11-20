@@ -1,8 +1,8 @@
 <?php
 
-$Atas = "Topi";
-$Bentuk = "Bundar";
+$A= "Topi";
+$B = "Bundar";
 
-echo $Atas . " Saya " . $Bentuk . ", ". $Bentuk . " ". $Atas . " Saya ";
+echo $A. " Saya " . $B . ", "." ". $B ." "." ". $A." " . "saya" ;
 
 ?>

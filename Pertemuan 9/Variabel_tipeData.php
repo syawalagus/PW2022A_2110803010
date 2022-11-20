@@ -1,6 +1,6 @@
 <?php
-$NIM = "2110803013";
-$Nama = "Fitra Kalek";
+$NIM = "2110803010";
+$Nama = "agus syawaluddin";
 $Umur = 18;
 $Nilai = 83.25;
 
